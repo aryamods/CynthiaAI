@@ -1,3 +1,3 @@
 {
-	"name": "ChaseFate AI "
+	"name": "Cheems Bot Multi Device "
 }
